@@ -1,0 +1,20 @@
+{
+  "name": "rxjs_tutorial",
+  "version": "1.0.0",
+  "description": "please visit this youtube link : https://www.youtube.com/watch?v=PhggNGsSQyg&t=2152s",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.4",
+    "rxjs-compat": "^6.5.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
